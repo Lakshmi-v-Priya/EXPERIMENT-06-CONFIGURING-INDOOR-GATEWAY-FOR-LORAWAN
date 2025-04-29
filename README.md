@@ -83,9 +83,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-
-
-
+![image](https://github.com/user-attachments/assets/db551dfc-de16-4228-9877-fe3309f943b6)
+![image](https://github.com/user-attachments/assets/04231502-beab-483d-868a-1a35941f432c)
+![image](https://github.com/user-attachments/assets/be365772-1032-4014-a8ff-88cae9ee2e16)
+![WhatsApp Image 2025-04-29 at 18 20 13_fe30cfea](https://github.com/user-attachments/assets/a53aff16-3e86-4690-b6ba-5f936023fee6)
 
 ## Results: 
 
